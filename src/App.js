@@ -7,7 +7,7 @@ function App() {
     <React.StrictMode>
       <Router>
         <Routes>
-          <Route path="/" element={<Calculator />} />
+          <Route path="/numerologie" element={<Calculator />} />
         </Routes>
       </Router>
     </React.StrictMode>
